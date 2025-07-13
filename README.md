@@ -25,5 +25,5 @@ This repository contains a synthetic dataset simulating NVH (Noise, Vibration, H
 
 ---
 
-📊 Built for showcasing data cleaning, modeling, and dashboard development.
+Built for showcasing data cleaning, modeling, and dashboard development.
 
