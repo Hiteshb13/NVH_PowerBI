@@ -27,3 +27,10 @@ This repository contains a synthetic dataset simulating NVH (Noise, Vibration, H
 
 Built for showcasing data cleaning, modeling, and dashboard development.
 
+## Dashboard Preview
+
+<p align="center">
+  ![Performance Overview ]<img src="images/Page1.png" alt="NVH Dashboard Page 1" width="300"/>
+  ![Customer Feedback ]<img src="images/Page2.png" alt="NVH Dashboard Page 2" width="300"/>
+  ![Documentation]<img src="images/Page3.png" alt="NVH Dashboard Page 3" width="300"/>
+</p>
