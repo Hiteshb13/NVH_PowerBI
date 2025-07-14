@@ -30,7 +30,7 @@ Built for showcasing data cleaning, modeling, and dashboard development.
 ## Dashboard Preview
 
 <p align="center">
-  ![Performance Overview ]<img src="images/Page1.png" alt="NVH Dashboard Page 1" width="300"/>
-  ![Customer Feedback ]<img src="images/Page2.png" alt="NVH Dashboard Page 2" width="300"/>
-  ![Documentation]<img src="images/Page3.png" alt="NVH Dashboard Page 3" width="300"/>
+ <img src="Images/Page1.png" alt="Page 1 – NVH Performance Overview" width="300"/>
+ <img src="Images/Page2.png" alt="Page 2 – Customer Feedback Analysis" width="300"/>
+ <img src="Images/Page3.png" alt="Documentation" width="300"/>
 </p>
