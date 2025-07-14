@@ -14,7 +14,7 @@ This repository contains a synthetic dataset simulating NVH (Noise, Vibration, H
 
 2. **Error Injection**: Added random nulls, duplicates, inconsistent text casing, typos, and numerical outliers to mimic dirty data.
 
-3. **Preprocessing Power BI & Enhanced version in (Python)**:
+3. **Preprocessing using Power BI & Enhanced version in (Python)**:
    - Removed duplicates and invalid entries
    - Replaced missing values with medians or placeholders
    - Normalized text fields
